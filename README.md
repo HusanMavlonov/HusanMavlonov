@@ -4,14 +4,9 @@
 
 ## ___About me___
 
--------
-
 
 ___I'am a beginner programmer___
 
-
-
---------
 
 ___technologies that I usually use___
 
