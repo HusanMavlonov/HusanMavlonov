@@ -1,6 +1,6 @@
 
-(![197824180-4cb4c283-d23a-4977-a699-ea4cabd0446a (1)](https://user-images.githubusercontent.com/116648428/198311733-2ee7545a-dec3-435a-b7e6-660807145adb.jpg)
-)
+
+![Без имени](https://user-images.githubusercontent.com/116648428/198315226-8e8b9b73-e644-4b0a-acf3-d48755601465.jpg)
 
 ## ___About me___
 
