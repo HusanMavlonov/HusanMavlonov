@@ -8,7 +8,7 @@
 ___I'am a beginner programmer___
 
 
-___technologies that I usually use___
+___Technologies that I usually use___
 
 <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=red"/> <img src="https://img.shields.io/badge/Css-black?style=for-the-badge&logo=css3&logoColor=blue"/>
 
