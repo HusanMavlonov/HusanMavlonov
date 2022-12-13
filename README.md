@@ -12,3 +12,5 @@ ___Technologies that I usually use___
 
 <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=red"/> <img src="https://img.shields.io/badge/Css-black?style=for-the-badge&logo=css3&logoColor=blue"/>
 
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Spectrixx+Beginner+programmer)
